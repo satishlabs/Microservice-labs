@@ -1,0 +1,16 @@
+INDEX VERSION 1.134+D:\devpractice\Spring-Boot-MS\BookStoreShop-Version1.0\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1801586858.index
+2684622270.index
+1571289814.index
+4250237114.index
+451505586.index
+2186457821.index
+439731960.index
+3709566635.index
+3272666312.index
+4133062302.index
+2839572499.index
+1293031637.index
+2812500892.index
+290236176.index

@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\devpractice\Spring-Boot-MS\BookStoreShop-Version1.0\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2360824058.index
+\BookStoreWeb\src\main\java
