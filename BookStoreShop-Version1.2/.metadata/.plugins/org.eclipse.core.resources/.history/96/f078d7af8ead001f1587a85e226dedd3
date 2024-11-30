@@ -1,0 +1,5 @@
+package com.satishlabs.rabbitmq;
+
+public class OrderInfo {
+
+}

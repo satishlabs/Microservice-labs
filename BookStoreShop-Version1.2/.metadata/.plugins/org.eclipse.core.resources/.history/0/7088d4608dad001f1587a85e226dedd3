@@ -1,0 +1,15 @@
+package com.satishlabs.placeorder.config;
+
+import org.springframework.amqp.core.Queue;
+import org.springframework.amqp.core.QueueBuilder;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+@SpringBootApplication
+public class PlaceOrderConfig {
+		
+	@Bean(name = "myOrderQueue")
+	Queue createOrderQueue() {
+		return QueueBuilder.durable(ORDER_QUEUE).build();
+	}
+}

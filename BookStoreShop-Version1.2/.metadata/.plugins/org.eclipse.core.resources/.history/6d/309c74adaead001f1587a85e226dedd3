@@ -1,0 +1,49 @@
+package com.satishlabs.booksearch.config;
+
+import org.springframework.amqp.core.Binding;
+import org.springframework.amqp.core.BindingBuilder;
+import org.springframework.amqp.core.Exchange;
+import org.springframework.amqp.core.ExchangeBuilder;
+import org.springframework.amqp.core.Queue;
+import org.springframework.amqp.core.QueueBuilder;
+import org.springframework.amqp.core.TopicExchange;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+
+@SpringBootApplication
+public class BookSearchConfig {
+
+	@Bean(name = "myBookRatingsQueue")
+	Queue createRatingsQueue() {
+		return QueueBuilder.durable("mybookratings.queue").build();
+	}
+	
+	@Bean(name = "myInventoryQueue")
+	Queue createInventoryQueue() {
+		return QueueBuilder.durable("myinventory.queue").build();
+	}
+
+	@Bean(name = "myBookRatingsExchange")
+	Exchange createRatingsExchange() {
+		return ExchangeBuilder.topicExchange("myratings.exchange").build();
+	}
+	
+	@Bean(name = "myInventoryExchange")
+	Exchange createInventoryExchange() {
+		return ExchangeBuilder.topicExchange("myinventory.exchange").build();
+	}
+	
+	@Bean
+	Binding ratingBinding(Queue myRatingsQueue, TopicExchange myRatingsExchange) {
+		return BindingBuilder.bind(myRatingsQueue)
+				.to(myRatingsExchange)
+				.with("myratings.key");
+	}
+
+	@Bean
+	Binding InventoryBinding(Queue myInventoryQueue, TopicExchange myInventoryExchange) {
+		return BindingBuilder.bind(myInventoryQueue)
+				.to(myInventoryExchange)
+				.with("myinventory.key");
+	}
+}

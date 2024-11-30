@@ -1,0 +1,19 @@
+package com.satishlabs.rabbitmq;
+
+import java.io.Serializable;
+import java.util.List;
+
+public class OrderFullInfo implements Serializable{
+	private OrderInfo order;
+	private List<OrderItemInfo> itemsList;
+	
+	public OrderFullInfo() {}
+	
+	public OrderFullInfo(OrderInfo order, List<OrderItemInfo> itemsList) {
+		super();
+		this.order = order;
+		this.itemsList = itemsList;
+	}
+	
+	
+}

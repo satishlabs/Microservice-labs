@@ -1,0 +1,15 @@
+package com.satishlabs.rabbitmq;
+
+import java.io.Serializable;
+
+public class UserRatingInfo implements Serializable{
+	
+	private Integer ratingId;
+	private String userId;
+	private Integer bookId;
+	private double rating;
+	private String review;
+	
+	
+
+}

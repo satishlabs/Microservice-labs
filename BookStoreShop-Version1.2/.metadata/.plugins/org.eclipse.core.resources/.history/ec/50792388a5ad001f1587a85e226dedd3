@@ -1,0 +1,17 @@
+package com.satishlabs.rabbitmq;
+
+import java.io.Serializable;
+import java.util.List;
+
+public class MyOrder implements Serializable{
+	private Integer orderId;
+	private String orderDate;
+	private String userId;
+	private int totalQty;
+	private double totalCost;
+	private String status;
+	
+	
+	
+	
+}

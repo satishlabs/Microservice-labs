@@ -1,0 +1,7 @@
+package com.satishlabs.rabbitmq;
+
+import java.io.Serializable;
+
+public class OrderInfo implements Serializable{
+
+}

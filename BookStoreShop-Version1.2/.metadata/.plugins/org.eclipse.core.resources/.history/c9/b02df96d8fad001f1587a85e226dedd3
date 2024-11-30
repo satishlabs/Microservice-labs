@@ -1,0 +1,23 @@
+package com.satishlabs.rabbitmq;
+
+import java.io.Serializable;
+
+public class OrderItemInfo implements Serializable{
+	private Integer orderItemId;
+	private Integer orderId;
+	private Integer bookId;
+	private int qty;
+	private double cost;
+	
+	public OrderItemInfo() {}
+	
+	public OrderItemInfo(Integer orderId, Integer bookId, int qty, double cost) {
+		this.orderId = orderId;
+		this.bookId = bookId;
+		this.qty = qty;
+		this.cost = cost;
+	}
+	
+	
+
+}
