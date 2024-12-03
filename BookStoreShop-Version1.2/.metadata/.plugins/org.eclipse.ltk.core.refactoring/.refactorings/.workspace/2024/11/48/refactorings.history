@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;BookSearch&apos; to &apos;BookSearchMS&apos;" description="Rename resource &apos;BookSearch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BookSearch" name="BookSearchMS" stamp="1732780600980" updateReferences="true"/>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;BookSearch&apos; to &apos;BookSearchMS&apos;" description="Rename resource &apos;BookSearch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BookSearch" name="BookSearchMS" stamp="1732780600980" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;BootAdminServer&apos;" deleteContents="true" description="Delete resource &apos;BootAdminServer&apos;" element1="/BootAdminServer" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1732941497750"/>
 </session>

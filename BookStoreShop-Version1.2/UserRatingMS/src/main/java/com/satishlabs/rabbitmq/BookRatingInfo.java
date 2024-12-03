@@ -3,10 +3,6 @@ package com.satishlabs.rabbitmq;
 import java.io.Serializable;
 
 public class BookRatingInfo implements Serializable{
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
 	private Integer bookId;
 	private double avgRating;
 	private int numberOfSearches;

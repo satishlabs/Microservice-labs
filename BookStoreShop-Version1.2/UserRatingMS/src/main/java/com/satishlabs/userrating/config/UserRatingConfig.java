@@ -21,20 +21,6 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class UserRatingConfig {
-	@Bean(name = "myBookRatingsExchange")
-	Exchange createBookRatingsExchange() {
-		return ExchangeBuilder.topicExchange("mybook.ratings.exchange").build();
-	}
-
-	@Bean(name = "myBookRatingsQueue")
-	Queue createBookRatingsQueue() {
-		return QueueBuilder.durable("mybook.ratings.queue").build();
-	}
-
-	@Bean
-	Binding bookRatingBinding(Queue myBookRatingsQueue, TopicExchange myBookRatingsExchange) {
-		return BindingBuilder.bind(myBookRatingsQueue).to(myBookRatingsExchange).with("mybook.ratings.key");
-	}
 
 	@Bean(name = "myUserRatingsExchange")
 	Exchange createUserRatingsExchange() {

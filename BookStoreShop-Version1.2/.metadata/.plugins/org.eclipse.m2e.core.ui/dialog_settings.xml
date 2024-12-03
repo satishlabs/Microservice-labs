@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.2\BootAdminServer"/>
 			<item value="D:\devpractice\Spring-Boot-MS\BookStoreShop-Version1.0\BookStoreWeb"/>
 			<item value="D:\devpractice\Spring-Boot-MS\BookStoreShop-Version1.0\UserRatingMS"/>
 			<item value="D:\devpractice\Spring-Boot-MS\BookStoreShop-Version1.0\PlaceOrderMS"/>

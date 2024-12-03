@@ -21,6 +21,8 @@ import com.satishlabs.booksearch.entity.Book;
 import com.satishlabs.booksearch.entity.BookInventory;
 import com.satishlabs.booksearch.entity.BookRating;
 import com.satishlabs.booksearch.service.BookSearchService;
+import com.satishlabs.rabbitmq.BookInventoryInfo;
+import com.satishlabs.rabbitmq.BookRatingInfo;
 
 @Service
 @Transactional
@@ -87,15 +89,22 @@ public class BookSearchServiceImpl implements BookSearchService{
 		return bookInfo;
 	}
 
-	@RabbitListener(queues = "myratings.queue")
-	public void updateBookRating(BookRating bookRating) {
-		logInfo.info("----BookSearchServiceImpl --- updateBookRating()--- ");
+	@RabbitListener(queues = "mybook.ratings.queue")
+	public void updateBookRating(BookRatingInfo bookRatingInfo) {
+		logInfo.info("----4. BookSearchServiceImpl --- updateBookRating()--- ");
+		BookRating bookRating = new BookRating();
+		bookRating.setBookId(bookRatingInfo.getBookId());
+		bookRating.setAvgRating(bookRatingInfo.getAvgRating());
+		bookRating.setNumberOfSeaches(bookRatingInfo.getNumberOfSearches());
 		bookRatingDAO.save(bookRating);
 	}
 
 	@RabbitListener(queues = "myinventory.queue")
-	public void updateBookInventory(BookInventory bookInventory) {
-		logInfo.info("----BookSearchServiceImpl --- updateBookInventory()--- ");
+	public void updateBookInventory(BookInventoryInfo bookInventoryInfo) {
+		logInfo.info("----4.BookSearchServiceImpl --- updateBookInventory()--- ");
+		BookInventory bookInventory = new BookInventory();
+		bookInventory.setBookId(bookInventoryInfo.getBookId());
+		bookInventory.setBooksAvailable(bookInventoryInfo.getBooksAvailable());
 		bookInventoryDAO.save(bookInventory);
 	}
 

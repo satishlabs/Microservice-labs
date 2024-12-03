@@ -1,0 +1,9 @@
+package com.satishlabs.bookprice.config;
+
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.EnableWebMvcConfiguration;
+
+@SpringBootApplication
+public class BookPriceConfig extends EnableWebMvcConfiguration{
+
+}

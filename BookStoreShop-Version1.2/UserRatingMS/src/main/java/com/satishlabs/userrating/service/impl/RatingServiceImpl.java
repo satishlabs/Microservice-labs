@@ -44,7 +44,7 @@ public class RatingServiceImpl implements RatingService{
 
 	@RabbitListener(queues = "myuser.ratings.queue")
 	public void addUserRating(UserRatingInfo userRatingInfo) {
-		logInfo.info("---- RatingServiceImpl --- addUserRating() ----");
+		logInfo.info("---- 3. RatingServiceImpl --- addUserRating() ----");
 		UserRating userRating = new UserRating(userRatingInfo.getBookId(), userRatingInfo.getUserId(), userRatingInfo.getRating(), userRatingInfo.getReview());
 		//1. add the UserRating
 		userRatingDAO.save(userRating);
@@ -72,7 +72,7 @@ public class RatingServiceImpl implements RatingService{
 		bookRatingInfo.setAvgRating(bookRating.getAvgRating());
 		bookRatingInfo.setNumberOfSearches(bookRating.getNumberOfSearches());
 		
-		rabbitTemplate.convertAndSend("mybook.ratings.queue", bookRatingInfo);
+		rabbitTemplate.convertAndSend("mybook.search.exchange","mybook.ratings.key", bookRatingInfo);
 		//bookSearchRest.postForObject(endpoint, bookRating, Void.class);
 		
 	}

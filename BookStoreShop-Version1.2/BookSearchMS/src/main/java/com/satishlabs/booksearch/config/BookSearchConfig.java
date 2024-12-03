@@ -12,9 +12,11 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class BookSearchConfig {
-	@Bean(name = "myBookRatingsExchange")
-	Exchange createBookRatingsExchange() {
-		return ExchangeBuilder.topicExchange("mybook.ratings.exchange").build();
+	
+	//BookSearch Exchange
+	@Bean(name = "myBookSearchExchange")
+	Exchange createBookSearchExchange() {
+		return ExchangeBuilder.topicExchange("mybook.search.exchange").build();
 	}
 
 	@Bean(name = "myBookRatingsQueue")
@@ -23,14 +25,10 @@ public class BookSearchConfig {
 	}
 
 	@Bean
-	Binding bookRatingBinding(Queue myBookRatingsQueue, TopicExchange myBookRatingsExchange) {
-		return BindingBuilder.bind(myBookRatingsQueue).to(myBookRatingsExchange).with("mybook.ratings.key");
+	Binding bookRatingBinding(Queue myBookRatingsQueue, TopicExchange myBookSearchExchange) {
+		return BindingBuilder.bind(myBookRatingsQueue).to(myBookSearchExchange).with("mybook.ratings.key");
 	}
-
-	@Bean(name = "myInventoryExchange")
-	Exchange createInventoryExchange() {
-		return ExchangeBuilder.topicExchange("myinventory.exchange").build();
-	}
+	
 
 	@Bean(name = "myInventoryQueue")
 	Queue createInventoryQueue() {
@@ -38,7 +36,7 @@ public class BookSearchConfig {
 	}
 
 	@Bean
-	Binding InventoryBinding(Queue myInventoryQueue, TopicExchange myInventoryExchange) {
-		return BindingBuilder.bind(myInventoryQueue).to(myInventoryExchange).with("myinventory.key");
+	Binding InventoryBinding(Queue myInventoryQueue, TopicExchange myBookSearchExchange) {
+		return BindingBuilder.bind(myInventoryQueue).to(myBookSearchExchange).with("myinventory.key");
 	}
 }

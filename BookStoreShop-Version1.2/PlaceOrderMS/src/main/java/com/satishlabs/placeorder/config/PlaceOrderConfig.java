@@ -12,38 +12,20 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class PlaceOrderConfig {
-	
+
 	@Bean(name = "myOrderExchange")
 	Exchange createOrderExchange() {
 		return ExchangeBuilder.topicExchange("myorder.exchange").build();
 	}
-		
+
 	@Bean(name = "myOrderQueue")
 	Queue createOrderQueue() {
 		return QueueBuilder.durable("myorder.queue").build();
 	}
-	
+
 	@Bean
 	Binding orderBinding(Queue myOrderQueue, TopicExchange myOrderExchange) {
-		return BindingBuilder.bind(myOrderExchange)
-				.to(myOrderExchange)
-				.with("myorder.key");
+		return BindingBuilder.bind(myOrderExchange).to(myOrderExchange).with("myorder.key");
 	}
-	
-	@Bean(name = "myInventoryExchange")
-	Exchange createInventoryExchange() {
-		return ExchangeBuilder.topicExchange("myinventory.exchange").build();
-	}
-	
-	@Bean(name = "myInventoryQueue")
-	Queue createInventoryQueue() {
-		return QueueBuilder.durable("myinventory.queue").build();
-	}
-	
-	@Bean
-	Binding InventoryBinding(Queue myInventoryQueue, TopicExchange myInventoryExchange) {
-		return BindingBuilder.bind(myInventoryQueue)
-				.to(myInventoryExchange)
-				.with("myinventory.key");
-	}
+
 }

@@ -116,7 +116,7 @@ public class BookStoreController {
 
 	@GetMapping("/placeOrder")
 	public String placeMyOrder(HttpSession session) {
-		System.out.println("-------BookStoreController--placeMyOrder()---------");
+		System.out.println("-------1. BookStoreController--placeMyOrder()---------");
 		if (mycartMap.size() > 0) {
 			bookStoreService.placeOrder(mycartMap);
 			mycartMap.clear();
@@ -128,14 +128,14 @@ public class BookStoreController {
 	public String showRatingsForm(Model model) {
 		System.out.println("-------BookStoreController--showRatingsForm()---------");
 		UserRating userRating = new UserRating();
-		userRating.setUserId("U-11");
+		userRating.setUserId("U-12");
 		model.addAttribute("myUserRating", userRating);
 		return "addRating";
 	}
 
 	@PostMapping("/addMyRating")
 	public String addMyRating(@ModelAttribute("") UserRating userRating) {
-		System.out.println("-------BookStoreController--addMyRating()---------");
+		System.out.println("-------1. BookStoreController--addMyRating()---------");
 		bookStoreService.addUserRating(userRating);
 		return "ratingSuccess";
 	}
@@ -143,7 +143,7 @@ public class BookStoreController {
 	@GetMapping("/showMyRatings")
 	public String showMyRatingsList(Model model, HttpSession session) {
 		System.out.println("-------BookStoreController--showMyRatingsList()---------");
-		List<UserRating> userRatingList = bookStoreService.getMyRatings("U-11");
+		List<UserRating> userRatingList = bookStoreService.getMyRatings("U-12");
 		session.setAttribute("MyUserRatingList", userRatingList);
 		return "ratingsList";
 	}
