@@ -1,0 +1,5 @@
+package com.satishlabs.booksearch.feignproxy;
+
+public class BookSearchProxy {
+
+}

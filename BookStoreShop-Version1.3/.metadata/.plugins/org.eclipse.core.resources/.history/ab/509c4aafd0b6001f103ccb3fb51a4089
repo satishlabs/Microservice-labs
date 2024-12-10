@@ -1,0 +1,8 @@
+package com.satishlabs.booksearch.proxy;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(name = "BookPriceMS", value = "http://localhost:9000")
+public interface BookPriceProxy {
+
+}

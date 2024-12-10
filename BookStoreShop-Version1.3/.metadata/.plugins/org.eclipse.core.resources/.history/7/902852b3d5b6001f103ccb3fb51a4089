@@ -1,0 +1,5 @@
+package com.satishlabs.bookstoreweb.proxy;
+
+public interface UserRatingProxy {
+
+}
