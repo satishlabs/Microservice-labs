@@ -76,28 +76,25 @@ public class BookStoreController {
 	}
 
 	@PostMapping("/addToCart")
-	public String addBookToCart(@RequestParam("bookId") String bookId,HttpSession
-	session) {
+	public String addBookToCart(@RequestParam("bookId") String bookId, HttpSession session) {
 		System.out.println("-------BookStoreController--addBookToCart()---------");
 		System.out.println(bookId);
-		Book mybook=bookStoreService.getBookByBookId(new Integer(bookId));
+		Book mybook = bookStoreService.getBookByBookId(new Integer(bookId));
 		mycartMap.put(new Integer(bookId), mybook);
 		session.setAttribute("MyCart", mycartMap);
 		return "showBooksList";
 	}
 
 	@GetMapping("/showMyCart")
-	public String showBooksInMyCart(HttpServletRequest request,HttpSession session) {
+	public String showBooksInMyCart(HttpServletRequest request, HttpSession session) {
 		System.out.println("-------BookStoreController--showBooksInMyCart()---------");
-		Object obj=session.getAttribute("MyCart");
-		Map<Integer,Book> cartMap=(Map<Integer,Book>)obj;
-		Collection<Book> cartbookList=(Collection<Book>)cartMap.values();
+		Object obj = session.getAttribute("MyCart");
+		Map<Integer, Book> cartMap = (Map<Integer, Book>) obj;
+		Collection<Book> cartbookList = (Collection<Book>) cartMap.values();
 		session.setAttribute("MyCartItems", cartbookList);
-		System.out.println("cartbookList==========="+cartbookList);
-		if(cartbookList.size()==0) {
-		request.setAttribute("CartEmptyMSG", "No Books Cart- Please Continue Shopping");
+		if (cartbookList.size() == 0) {
+			request.setAttribute("CartEmptyMSG", "No Books Cart- Please Continue Shopping");
 		}
-		System.out.println("cartbookList************"+cartbookList);
 		return "showCart";
 	}
 

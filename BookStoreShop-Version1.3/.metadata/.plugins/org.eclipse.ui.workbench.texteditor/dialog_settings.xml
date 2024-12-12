@@ -3,6 +3,11 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="false"/>
 	<list key="searchhistory">
+		<item value="booksMap"/>
+		<item value="show"/>
+		<item value="getMyOrders"/>
+		<item value="getMayOrders"/>
+		<item value="convertMapToBook"/>
 		<item value="myBookSearchExchange"/>
 		<item value="U-123"/>
 		<item value="U-111"/>

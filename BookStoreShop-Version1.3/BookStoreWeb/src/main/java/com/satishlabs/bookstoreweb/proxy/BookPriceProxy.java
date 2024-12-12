@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import com.satishlabs.bookstoreweb.dto.BookPriceInfo;
 
 
+
 @FeignClient(value = "BookPriceMS", url = "http://localhost:9000")
 public interface BookPriceProxy {
 	

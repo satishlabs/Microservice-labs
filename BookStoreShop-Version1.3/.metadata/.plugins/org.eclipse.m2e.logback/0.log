@@ -13514,3 +13514,986 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-12-10 15:59:11,859 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-12-10 15:59:11,859 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2024-12-10 15:59:11,859 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 08:48:10,166 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-12-12 08:53:23,879 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-12 08:57:02,128 [Worker-6: Launching BookPriceMS - BookPriceMsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:02,131 [Worker-6: Launching BookPriceMS - BookPriceMsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:02,137 [Worker-6: Launching BookPriceMS - BookPriceMsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 08:57:02,161 [Worker-6: Launching BookPriceMS - BookPriceMsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 08:57:02,169 [Worker-6: Launching BookPriceMS - BookPriceMsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:02,169 [Worker-6: Launching BookPriceMS - BookPriceMsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:02,169 [Worker-6: Launching BookPriceMS - BookPriceMsApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookPriceMS\src\test\resources
+2024-12-12 08:57:07,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:07,340 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:07,342 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 08:57:07,370 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 08:57:07,381 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:07,382 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:07,382 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 08:57:09,223 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:09,224 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:09,224 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 08:57:09,241 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 08:57:09,249 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:09,249 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:09,249 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 08:57:10,401 [Worker-26: Building] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2024-12-12 08:57:11,175 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:11,176 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:11,176 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 08:57:11,194 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 08:57:11,203 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:11,203 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:11,203 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BootAdminServer\src\test\resources
+2024-12-12 08:57:12,851 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:12,851 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:12,851 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 08:57:12,881 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 08:57:12,888 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:12,889 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:12,889 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\PlaceOrderMS\src\test\resources
+2024-12-12 08:57:14,424 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:14,424 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:14,425 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 08:57:14,439 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 08:57:14,445 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 08:57:14,445 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 08:57:14,445 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\UserRatingMS\src\test\resources
+2024-12-12 09:01:52,393 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-12 09:01:53,293 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:01:54,551 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookStoreWeb/src/main/java
+2024-12-12 09:01:54,554 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookStoreWeb/src/main/resources
+2024-12-12 09:01:54,555 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookStoreWeb/src/main/resources
+2024-12-12 09:01:54,556 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookStoreWeb/src/test/java
+2024-12-12 09:01:54,557 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookStoreWeb/src/test/resources
+2024-12-12 09:01:55,152 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2024-12-12 09:01:56,025 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:01:56,025 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:01:56,025 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:01:56,038 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:01:56,047 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:01:56,047 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:01:56,047 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:02:05,135 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:05,135 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:05,135 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:02:05,139 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:02:05,145 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:05,145 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:05,145 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookPriceMS\src\test\resources
+2024-12-12 09:02:05,620 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:05,620 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:05,620 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:02:05,623 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:02:05,629 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:05,629 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:05,629 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:02:05,927 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:05,928 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:05,929 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:02:05,931 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:02:05,942 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:05,943 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:05,943 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:02:07,108 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:07,108 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:07,109 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:02:07,111 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:02:07,118 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:07,118 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:07,118 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BootAdminServer\src\test\resources
+2024-12-12 09:02:07,455 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:07,456 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:07,456 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:02:07,462 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:02:07,479 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:07,480 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:07,480 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\PlaceOrderMS\src\test\resources
+2024-12-12 09:02:07,975 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:07,975 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:07,976 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:02:07,980 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:02:07,987 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:02:07,988 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:02:07,988 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\UserRatingMS\src\test\resources
+2024-12-12 09:02:58,911 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [642])
+2024-12-12 09:02:58,915 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2024-12-12 09:02:58,916 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2024-12-12 09:02:58,916 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2024-12-12 09:02:58,917 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2024-12-12 09:02:58,918 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2024-12-12 09:02:58,918 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2024-12-12 09:02:58,918 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-12 09:02:58,918 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2024-12-12 09:02:58,920 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2024-12-12 09:02:58,920 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2024-12-12 09:02:58,921 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2024-12-12 09:02:58,921 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2024-12-12 09:02:58,921 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2024-12-12 09:02:58,922 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2024-12-12 09:02:58,922 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2024-12-12 09:02:58,922 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2024-12-12 09:02:58,923 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2024-12-12 09:02:58,923 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2024-12-12 09:02:58,923 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2024-12-12 09:02:58,924 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2024-12-12 09:02:58,924 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2024-12-12 09:02:58,925 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2024-12-12 09:02:58,925 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2024-12-12 09:02:58,925 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2024-12-12 09:02:58,925 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2024-12-12 09:02:58,926 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2024-12-12 09:02:58,927 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2024-12-12 09:02:58,927 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2024-12-12 09:02:58,927 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2024-12-12 09:02:58,927 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2024-12-12 09:02:58,928 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2024-12-12 09:02:58,928 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2024-12-12 09:02:58,929 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2024-12-12 09:02:58,929 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2024-12-12 09:02:58,929 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2024-12-12 09:02:58,929 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2024-12-12 09:02:58,930 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2024-12-12 09:02:58,930 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-12 09:02:58,930 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2024-12-12 09:02:58,930 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2024-12-12 09:02:58,931 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2024-12-12 09:02:58,931 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2024-12-12 09:02:58,931 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2024-12-12 09:02:58,932 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2024-12-12 09:02:58,935 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2024-12-12 09:02:58,936 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2024-12-12 09:02:58,936 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1007])
+2024-12-12 09:02:58,936 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-12-12 09:02:58,936 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2024-12-12 09:02:58,937 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-12 09:02:58,937 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2024-12-12 09:02:58,937 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-12 09:02:58,937 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2024-12-12 09:02:58,938 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2024-12-12 09:02:58,938 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-12-12 09:02:58,938 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-12 09:02:58,938 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-12-12 09:02:58,939 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-12 09:02:58,945 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb":
+2024-12-12 09:02:58,946 [Worker-22: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2024-12-12 09:03:11,138 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [642])
+2024-12-12 09:03:11,138 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2024-12-12 09:03:11,139 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2024-12-12 09:03:11,139 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2024-12-12 09:03:11,139 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2024-12-12 09:03:11,139 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2024-12-12 09:03:11,140 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2024-12-12 09:03:11,140 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-12 09:03:11,140 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2024-12-12 09:03:11,140 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2024-12-12 09:03:11,140 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2024-12-12 09:03:11,141 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2024-12-12 09:03:11,141 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2024-12-12 09:03:11,141 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2024-12-12 09:03:11,141 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2024-12-12 09:03:11,141 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2024-12-12 09:03:11,141 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2024-12-12 09:03:11,141 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2024-12-12 09:03:11,142 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2024-12-12 09:03:11,142 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2024-12-12 09:03:11,142 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2024-12-12 09:03:11,142 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2024-12-12 09:03:11,143 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2024-12-12 09:03:11,143 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2024-12-12 09:03:11,143 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2024-12-12 09:03:11,143 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2024-12-12 09:03:11,144 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2024-12-12 09:03:11,144 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2024-12-12 09:03:11,144 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2024-12-12 09:03:11,144 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2024-12-12 09:03:11,144 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2024-12-12 09:03:11,144 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2024-12-12 09:03:11,145 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2024-12-12 09:03:11,145 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2024-12-12 09:03:11,145 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2024-12-12 09:03:11,145 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2024-12-12 09:03:11,145 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2024-12-12 09:03:11,145 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2024-12-12 09:03:11,146 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-12 09:03:11,146 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2024-12-12 09:03:11,146 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2024-12-12 09:03:11,146 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2024-12-12 09:03:11,146 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2024-12-12 09:03:11,146 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2024-12-12 09:03:11,147 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2024-12-12 09:03:11,148 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2024-12-12 09:03:11,148 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2024-12-12 09:03:11,148 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1007])
+2024-12-12 09:03:11,149 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-12-12 09:03:11,150 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2024-12-12 09:03:11,150 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-12 09:03:11,150 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2024-12-12 09:03:11,150 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-12 09:03:11,150 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2024-12-12 09:03:11,151 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2024-12-12 09:03:11,151 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-12-12 09:03:11,151 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-12 09:03:11,151 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-12-12 09:03:11,151 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-12 09:03:11,152 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb":
+2024-12-12 09:03:11,152 [Worker-31: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2024-12-12 09:03:14,282 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:03:14,282 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:03:14,283 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:03:14,286 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:03:14,299 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:03:14,299 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:03:14,299 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:03:19,172 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [642])
+2024-12-12 09:03:19,173 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2024-12-12 09:03:19,173 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2024-12-12 09:03:19,174 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2024-12-12 09:03:19,174 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2024-12-12 09:03:19,174 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2024-12-12 09:03:19,174 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2024-12-12 09:03:19,174 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-12 09:03:19,175 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2024-12-12 09:03:19,175 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2024-12-12 09:03:19,175 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2024-12-12 09:03:19,175 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2024-12-12 09:03:19,175 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2024-12-12 09:03:19,175 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2024-12-12 09:03:19,176 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2024-12-12 09:03:19,176 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2024-12-12 09:03:19,176 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2024-12-12 09:03:19,176 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2024-12-12 09:03:19,176 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2024-12-12 09:03:19,177 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2024-12-12 09:03:19,177 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2024-12-12 09:03:19,177 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2024-12-12 09:03:19,177 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2024-12-12 09:03:19,177 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2024-12-12 09:03:19,177 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2024-12-12 09:03:19,178 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2024-12-12 09:03:19,178 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2024-12-12 09:03:19,178 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2024-12-12 09:03:19,178 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2024-12-12 09:03:19,178 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2024-12-12 09:03:19,178 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2024-12-12 09:03:19,178 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-12 09:03:19,179 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2024-12-12 09:03:19,180 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2024-12-12 09:03:19,180 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2024-12-12 09:03:19,180 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2024-12-12 09:03:19,180 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2024-12-12 09:03:19,180 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2024-12-12 09:03:19,180 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2024-12-12 09:03:19,181 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2024-12-12 09:03:19,181 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1007])
+2024-12-12 09:03:19,181 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-12-12 09:03:19,181 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2024-12-12 09:03:19,181 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-12 09:03:19,181 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2024-12-12 09:03:19,182 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-12 09:03:19,182 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2024-12-12 09:03:19,182 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2024-12-12 09:03:19,182 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-12-12 09:03:19,182 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-12 09:03:19,182 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-12-12 09:03:19,182 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-12 09:03:19,183 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb":
+2024-12-12 09:03:19,183 [Worker-6: Launching Executing install in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2024-12-12 09:18:17,793 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-12 09:18:23,561 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.2 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:18:28,208 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:18:28,208 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:18:28,210 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:18:28,210 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:18:28,223 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:18:28,223 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:18:28,223 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:18:31,666 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.2 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:18:33,356 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:18:33,356 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:18:33,365 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:18:33,388 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:18:33,401 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:18:33,401 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:18:33,402 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:28:00,051 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:28:00,051 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:28:00,052 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:28:00,076 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:28:00,082 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:28:00,082 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:28:00,082 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:28:16,281 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:28:16,281 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:28:16,283 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:28:16,312 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:28:16,319 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:28:16,319 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:28:16,319 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:28:47,302 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:28:47,302 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:28:47,303 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:28:47,310 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:28:47,315 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:28:47,316 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:28:47,316 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:29:19,220 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:29:19,220 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:29:19,221 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:29:19,227 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:29:19,232 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:29:19,232 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:29:19,232 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:29:46,594 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:29:47,022 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:29:47,022 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:29:47,024 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:29:47,025 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:29:47,030 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:29:47,030 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:29:47,030 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:30:07,843 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:30:08,215 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:30:08,215 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:30:08,218 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:30:08,219 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:30:08,223 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:30:08,223 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:30:08,223 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:30:29,389 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:30:30,044 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:30:30,044 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:30:30,046 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:30:30,047 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:30:30,052 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:30:30,052 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:30:30,052 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:30:32,322 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:30:32,736 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:30:32,736 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:30:32,739 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:30:32,740 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:30:32,745 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:30:32,745 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:30:32,745 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:31:17,068 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:31:17,068 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:31:17,069 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:31:17,085 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:31:17,087 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:31:17,088 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:31:17,088 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:31:58,879 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:31:58,880 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:31:58,881 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:31:58,888 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:31:58,893 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:31:58,894 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:31:58,894 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:32:11,125 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:11,125 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:11,126 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:11,134 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:11,140 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:11,140 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:11,140 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:32:36,977 [Worker-22: Cleaning all projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2024-12-12 09:32:37,815 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:37,815 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:37,815 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:37,828 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:32:37,832 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:37,832 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:37,832 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookPriceMS\src\test\resources
+2024-12-12 09:32:38,391 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:38,392 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:38,392 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:38,397 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:32:38,403 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:38,403 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:38,403 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:32:38,958 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:38,959 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:38,959 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:38,963 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:38,973 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:38,974 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:38,974 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:32:39,863 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:39,863 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:39,864 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:39,883 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:32:39,892 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:39,893 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:39,895 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BootAdminServer\src\test\resources
+2024-12-12 09:32:40,795 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:40,796 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:40,796 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:40,821 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:32:40,829 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:40,829 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:40,829 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\PlaceOrderMS\src\test\resources
+2024-12-12 09:32:41,545 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:41,545 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:41,546 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:41,560 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:32:41,566 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:41,566 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:41,566 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\UserRatingMS\src\test\resources
+2024-12-12 09:32:48,355 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-12 09:32:48,660 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:32:49,059 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookStoreWeb/src/main/java
+2024-12-12 09:32:49,061 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookStoreWeb/src/main/resources
+2024-12-12 09:32:49,062 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookStoreWeb/src/main/resources
+2024-12-12 09:32:49,062 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BookStoreWeb/src/test/java
+2024-12-12 09:32:49,063 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BookStoreWeb/src/test/resources
+2024-12-12 09:32:49,452 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-12-12 09:32:50,323 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:50,323 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:50,324 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:50,335 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:32:50,340 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:32:50,340 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:32:50,341 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:33:40,306 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-12 09:34:54,826 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:34:54,830 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:34:54,836 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:34:54,859 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:34:54,868 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:34:54,869 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:34:54,869 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:34:59,807 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:34:59,807 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:34:59,809 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:34:59,820 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:34:59,826 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:34:59,826 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:34:59,826 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:35:20,637 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:20,637 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:20,638 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:20,719 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:20,728 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:20,728 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:20,728 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:35:30,991 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:30,991 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:30,992 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:31,000 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:31,005 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:31,006 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:31,006 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:35:35,706 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:35,707 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:35,707 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:35,712 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:35,716 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:35,717 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:35,717 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:35:48,352 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:48,353 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:48,353 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:48,358 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:35:48,363 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:35:48,363 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:35:48,363 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:37:35,367 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409 [642])
+2024-12-12 09:37:35,368 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409
+2024-12-12 09:37:35,369 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\aopalliance-1.0.jar
+2024-12-12 09:37:35,369 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\guice-5.1.0.jar
+2024-12-12 09:37:35,369 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpclient-4.5.14.jar
+2024-12-12 09:37:35,369 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\httpcore-4.4.16.jar
+2024-12-12 09:37:35,369 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jansi-2.4.1.jar
+2024-12-12 09:37:35,369 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\jcl-over-slf4j-1.7.36.jar
+2024-12-12 09:37:35,370 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-artifact-3.9.9.jar
+2024-12-12 09:37:35,370 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-builder-support-3.9.9.jar
+2024-12-12 09:37:35,370 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-compat-3.9.9.jar
+2024-12-12 09:37:35,370 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-core-3.9.9.jar
+2024-12-12 09:37:35,370 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-embedder-3.9.9.jar
+2024-12-12 09:37:35,370 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-3.9.9.jar
+2024-12-12 09:37:35,370 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-model-builder-3.9.9.jar
+2024-12-12 09:37:35,371 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-plugin-api-3.9.9.jar
+2024-12-12 09:37:35,371 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-repository-metadata-3.9.9.jar
+2024-12-12 09:37:35,371 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-api-1.9.22.jar
+2024-12-12 09:37:35,371 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-connector-basic-1.9.22.jar
+2024-12-12 09:37:35,372 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-impl-1.9.22.jar
+2024-12-12 09:37:35,372 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-named-locks-1.9.22.jar
+2024-12-12 09:37:35,372 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-provider-3.9.9.jar
+2024-12-12 09:37:35,372 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-spi-1.9.22.jar
+2024-12-12 09:37:35,372 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-file-1.9.22.jar
+2024-12-12 09:37:35,372 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-http-1.9.22.jar
+2024-12-12 09:37:35,373 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-transport-wagon-1.9.22.jar
+2024-12-12 09:37:35,373 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-resolver-util-1.9.22.jar
+2024-12-12 09:37:35,373 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-3.9.9.jar
+2024-12-12 09:37:35,373 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-settings-builder-3.9.9.jar
+2024-12-12 09:37:35,374 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\maven-shared-utils-3.4.2.jar
+2024-12-12 09:37:35,374 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2024-12-12 09:37:35,374 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2024-12-12 09:37:35,374 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-0.0.7.jar
+2024-12-12 09:37:35,374 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-build-api-1.2.0.jar
+2024-12-12 09:37:35,374 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-cipher-2.0.jar
+2024-12-12 09:37:35,375 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-classworlds-2.8.0.jar
+2024-12-12 09:37:35,375 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-component-annotations-2.1.0.jar
+2024-12-12 09:37:35,375 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-interpolation-1.27.jar
+2024-12-12 09:37:35,375 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-sec-dispatcher-2.0.jar
+2024-12-12 09:37:35,375 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-utils-3.5.1.jar
+2024-12-12 09:37:35,375 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\plexus-xml-3.0.1.jar
+2024-12-12 09:37:35,376 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-file-3.5.3.jar
+2024-12-12 09:37:35,376 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-3.5.3.jar
+2024-12-12 09:37:35,376 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-http-shared-3.5.3.jar
+2024-12-12 09:37:35,376 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20240824-1409\jars\wagon-provider-api-3.5.3.jar
+2024-12-12 09:37:35,377 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.3.0.jre [16])
+2024-12-12 09:37:35,377 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava_33.3.0.jre.jar
+2024-12-12 09:37:35,378 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.16 [1007])
+2024-12-12 09:37:35,378 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\slf4j.api_2.0.16.jar
+2024-12-12 09:37:35,378 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2024-12-12 09:37:35,378 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-12-12 09:37:35,378 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2024-12-12 09:37:35,379 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2024-12-12 09:37:35,379 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [78])
+2024-12-12 09:37:35,379 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2024-12-12 09:37:35,379 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-12-12 09:37:35,379 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-12-12 09:37:35,379 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-12-12 09:37:35,380 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\satis\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-12-12 09:37:35,384 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb":
+2024-12-12 09:37:35,390 [Worker-7: Launching Executing clean in D__dev-labs_Spring-Boot-MS_BookStoreShop-Version1.3_BookStoreWeb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2024-12-12 09:38:25,160 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:38:25,684 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:38:25,685 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:38:25,688 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:38:25,689 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:38:25,695 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:38:25,695 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:38:25,695 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:39:08,933 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.satishlabs.bookstoreweb:BookStoreWeb:1.3 @ D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\pom.xml.
+2024-12-12 09:39:09,902 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:09,902 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:09,907 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:39:09,908 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:39:09,914 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:09,914 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:09,914 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:39:11,470 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:11,470 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:11,470 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:11,484 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:11,493 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:11,494 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:11,494 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:39:27,415 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:27,415 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:27,416 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:27,425 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:27,430 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:27,430 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:27,430 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:39:37,658 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:37,658 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:37,659 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:37,667 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:37,672 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:37,672 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:37,673 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:39:44,540 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:44,540 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:44,541 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:44,547 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:39:44,551 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:39:44,551 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:39:44,551 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:40:04,568 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:40:04,568 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:40:04,569 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:40:04,580 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:40:04,589 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:40:04,590 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:40:04,590 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:42:40,209 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:42:40,209 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:42:40,210 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:42:40,217 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:42:40,223 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:42:40,224 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:42:40,224 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:42:58,655 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:42:58,656 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:42:58,658 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:42:58,667 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:42:58,674 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:42:58,675 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:42:58,675 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:43:25,602 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:43:25,602 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:43:25,603 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:43:25,611 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:43:25,618 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:43:25,618 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:43:25,618 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:45:00,551 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:45:00,551 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:45:00,552 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:45:00,559 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:45:00,563 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:45:00,563 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:45:00,563 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:45:55,421 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:45:55,421 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:45:55,421 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:45:55,429 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:45:55,433 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:45:55,433 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:45:55,433 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:46:17,350 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:46:17,351 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:46:17,352 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:46:17,356 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:46:17,360 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:46:17,360 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:46:17,360 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:47:02,056 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:47:02,056 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:47:02,057 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:47:02,062 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:47:02,064 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:47:02,065 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:47:02,065 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:47:36,699 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:47:36,700 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:47:36,700 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:47:36,708 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:47:36,711 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:47:36,711 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:47:36,711 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:49:31,867 [Worker-9: Cleaning all projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2024-12-12 09:49:33,126 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:33,127 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:33,127 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:49:33,149 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:49:33,158 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:33,158 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:33,158 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookPriceMS\src\test\resources
+2024-12-12 09:49:33,903 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:33,904 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:33,905 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:49:33,929 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:49:33,937 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:33,937 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:33,937 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:49:34,378 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:34,379 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:34,379 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:49:34,381 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:49:34,391 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:34,391 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:34,391 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:49:35,163 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:35,163 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:35,163 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:49:35,187 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:49:35,193 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:35,194 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:35,194 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BootAdminServer\src\test\resources
+2024-12-12 09:49:35,798 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:35,798 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:35,798 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:49:35,822 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:49:35,830 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:35,831 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:35,831 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\PlaceOrderMS\src\test\resources
+2024-12-12 09:49:36,483 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:36,483 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:36,483 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:49:36,496 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:49:36,500 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:49:36,500 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:49:36,500 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\UserRatingMS\src\test\resources
+2024-12-12 09:51:27,958 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-12-12 09:54:15,386 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:54:15,388 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:54:15,394 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:54:15,428 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:54:15,437 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:54:15,437 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:54:15,437 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:56:57,610 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:56:57,610 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:56:57,612 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:56:57,623 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:56:57,629 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:56:57,629 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:56:57,629 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:57:25,190 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:57:25,190 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:57:25,191 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:57:25,195 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:57:25,198 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:57:25,198 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:57:25,198 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:57:55,894 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:57:55,894 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:57:55,894 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:57:55,904 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-12-12 09:57:55,923 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:57:55,923 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:57:55,924 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookSearchMS\src\test\resources
+2024-12-12 09:57:56,333 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:57:56,333 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:57:56,333 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:57:56,349 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:57:56,353 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:57:56,353 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:57:56,353 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:58:10,797 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:10,797 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:10,798 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:10,803 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:10,805 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:10,806 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:10,806 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:58:16,415 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:16,416 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:16,418 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:16,429 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:16,440 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:16,440 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:16,440 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:58:36,105 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:36,109 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:36,110 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:36,118 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:36,124 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:36,125 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:36,125 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:58:50,661 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:50,661 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:50,662 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:50,665 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:58:50,668 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:58:50,668 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:58:50,668 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 09:59:46,168 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:59:46,168 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:59:46,169 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:59:46,179 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 09:59:46,184 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 09:59:46,184 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 09:59:46,184 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:00:13,182 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:00:13,182 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:00:13,182 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:00:13,189 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:00:13,193 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:00:13,193 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:00:13,193 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:01:29,972 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:01:29,973 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:01:29,975 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:01:29,981 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:01:29,985 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:01:29,985 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:01:29,985 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:02:27,608 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:02:27,608 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:02:27,609 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:02:27,614 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:02:27,618 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:02:27,618 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:02:27,618 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:02:40,945 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:02:40,945 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:02:40,945 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:02:40,951 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:02:40,954 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:02:40,955 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:02:40,955 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:03:18,347 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:03:18,347 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:03:18,348 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:03:18,355 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:03:18,361 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:03:18,361 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:03:18,361 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:05:13,675 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:05:13,676 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:05:13,677 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:05:13,684 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:05:13,690 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:05:13,690 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:05:13,691 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:06:37,583 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:06:37,583 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:06:37,584 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:06:37,591 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:06:37,595 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:06:37,596 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:06:37,596 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:06:56,334 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:06:56,334 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:06:56,334 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:06:56,338 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:06:56,341 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:06:56,341 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:06:56,341 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:07:12,377 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:07:12,378 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:07:12,379 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:07:12,387 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:07:12,393 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:07:12,393 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:07:12,393 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:07:32,860 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:07:32,860 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:07:32,860 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:07:32,866 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:07:32,869 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:07:32,869 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:07:32,869 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:07:48,956 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:07:48,956 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:07:48,958 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:07:48,964 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:07:48,970 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:07:48,970 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:07:48,970 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:08:11,641 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:08:11,641 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:08:11,641 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:08:11,645 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:08:11,649 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:08:11,649 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:08:11,649 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:09:37,048 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:09:37,048 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:09:37,048 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:09:37,053 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:09:37,056 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:09:37,056 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:09:37,056 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:10:15,771 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:10:15,771 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:10:15,772 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:10:15,779 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:10:15,784 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:10:15,785 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:10:15,785 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:11:22,750 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:11:22,751 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:11:22,752 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:11:22,756 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:11:22,760 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:11:22,760 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:11:22,760 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:11:35,876 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:11:35,876 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:11:35,877 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:11:35,882 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:11:35,886 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:11:35,886 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:11:35,886 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:12:26,750 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:12:26,750 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:12:26,750 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:12:26,754 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:12:26,757 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:12:26,757 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:12:26,757 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:14:22,471 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:22,471 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:22,472 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:22,488 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:22,498 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:22,499 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:22,499 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:14:34,952 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:34,952 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:34,954 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:34,962 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:34,968 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:34,969 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:34,969 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:14:37,996 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:37,996 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:37,997 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:37,999 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:38,002 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:38,002 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:38,002 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:14:55,932 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:55,932 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:55,933 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:55,937 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:14:55,940 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:14:55,940 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:14:55,940 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:15:24,329 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:15:24,329 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:15:24,329 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:15:24,332 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:15:24,335 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:15:24,336 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:15:24,336 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:15:34,068 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:15:34,068 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:15:34,069 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:15:34,076 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:15:34,081 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:15:34,081 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:15:34,082 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:16:00,632 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:16:00,632 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:16:00,633 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:16:00,639 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:16:00,645 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:16:00,645 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:16:00,645 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:21:44,876 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:21:44,877 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:21:44,877 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:21:44,885 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:21:44,888 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:21:44,888 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:21:44,888 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:22:08,713 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:22:08,713 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:22:08,714 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:22:08,721 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:22:08,726 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:22:08,726 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:22:08,726 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:22:49,696 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:22:49,696 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:22:49,697 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:22:49,704 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:22:49,707 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:22:49,708 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:22:49,708 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:22:54,733 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:22:54,733 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:22:54,734 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:22:54,737 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:22:54,740 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:22:54,740 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:22:54,740 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:29:31,771 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:29:31,771 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:29:31,772 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:29:31,782 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:29:31,786 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:29:31,786 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:29:31,786 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources
+2024-12-12 10:34:27,690 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:34:27,691 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:34:27,691 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:34:27,699 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-12-12 10:34:27,703 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-12-12 10:34:27,703 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2024-12-12 10:34:27,703 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\dev-labs\Spring-Boot-MS\BookStoreShop-Version1.3\BookStoreWeb\src\test\resources

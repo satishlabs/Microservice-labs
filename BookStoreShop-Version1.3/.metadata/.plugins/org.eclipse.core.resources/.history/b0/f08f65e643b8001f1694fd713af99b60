@@ -1,0 +1,8 @@
+package com.satishlabs.bookstoreweb.proxy;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value = "PlaceOrderMS", url = "http://localhost:7000")
+public interface PlaceOrderProxy {
+
+}

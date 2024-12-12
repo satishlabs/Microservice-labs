@@ -15,19 +15,17 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import com.satishlabs.bookstoreweb.dto.Book;
 import com.satishlabs.bookstoreweb.dto.BookInfo;
 import com.satishlabs.bookstoreweb.dto.Order;
-import com.satishlabs.bookstoreweb.dto.OrderItem;
 import com.satishlabs.bookstoreweb.dto.UserRating;
 import com.satishlabs.bookstoreweb.proxy.BookPriceProxy;
 import com.satishlabs.bookstoreweb.proxy.BookSearchProxy;
 import com.satishlabs.bookstoreweb.proxy.PlaceOrderProxy;
-import com.satishlabs.bookstoreweb.proxy.UserRatingProxy;
+import com.satishlabs.bookstoreweb.proxy.UserRatingProcxy;
 import com.satishlabs.bookstoreweb.service.BookStoreService;
 import com.satishlabs.rabbitmq.OrderFullInfo;
 import com.satishlabs.rabbitmq.OrderInfo;
@@ -56,11 +54,10 @@ public class BookStoreServiceImpl implements BookStoreService {
 	private BookSearchProxy bookSearchProxy;
 	
 	@Autowired
-	private PlaceOrderProxy placeOrderProxy;
+	private UserRatingProcxy userRatingProcxy;
 	
 	@Autowired
-	private UserRatingProxy userRatingProxy;
-	
+	private PlaceOrderProxy placeOrderProxy;
 
 	@Override
 	public List<String> getAuthorsList() {
@@ -97,17 +94,19 @@ public class BookStoreServiceImpl implements BookStoreService {
 		// Invoke BookSearchMS Rest API with RestTemplate
 		/*RestTemplate bookSearchRest = new RestTemplate();
 		String endpoint = "http://localhost:8000/mybooks/" + author + "/" + category;
-		List<Map> list = bookSearchRest.getForObject(endpoint, List.class);	
+		List<Map> list = bookSearchRest.getForObject(endpoint, List.class);
 		List<Book> bookList = new ArrayList<>();
 		for (Map mymap : list) {
 			Book mybook = convertMapToBook(mymap);
 			bookList.add(mybook);
 			booksMap.put(mybook.getBookId(), mybook);
-		}
-		*/
-	
-		// Invoke BookSearchMS Rest API using Feign
+		}*/
+		
+		// Invoke BookSearchMS Rest API with Feign
 		List<Book> bookList = bookSearchProxy.getBooksByAuthorAndCategory(author, category);
+		for(Book mybook : bookList) {
+			booksMap.put(mybook.getBookId(), mybook);
+		}
 		return bookList;
 	}
 
@@ -123,13 +122,12 @@ public class BookStoreServiceImpl implements BookStoreService {
 	@Override
 	public BookInfo getBookInfoByBookId(Integer bookId) {
 		logInfo.info("----BookStoreServiceImpl --- getBookInfoByBookId()----");
-		//Invoking the BookSerachMS with RestTemplate
+		// Invoke BookSearch Controller Rest API with RestTemplate
 		/*RestTemplate bookSearchRest = new RestTemplate();
 		String endpoint = "http://localhost:8000/mybook/" + bookId;
 		BookInfo bookInfo = bookSearchRest.getForObject(endpoint, BookInfo.class);
 		*/
-		
-		//Invoking the BookSerachMS with Feign
+		// Invoke BookPrice Controller Rest API with Feign
 		BookInfo bookInfo = bookSearchProxy.getBookById(bookId);
 		return bookInfo;
 
@@ -145,14 +143,12 @@ public class BookStoreServiceImpl implements BookStoreService {
 		
 		for (Book mybook : mycartMap.values()) {
 			Integer bookId = mybook.getBookId();
-			
-			// Invoke BookPrice Controller with RestTemplate
+			// Invoke BookPrice Controller Rest API with RestTemplate
 			/*RestTemplate bookPriceRest = new RestTemplate();
 			String priceEndpoint = "http://localhost:9000/offerprice/" + bookId;
 			double offerPrice = bookPriceRest.getForObject(priceEndpoint, Double.class);
 			*/
-			
-			// Invoke BookPrice Controller with Feign
+			// Invoke BookPrice Controller Rest API with Feign
 			double offerPrice = bookPriceProxy.getOfferPrice(bookId);
 			OrderItemInfo item = new OrderItemInfo(0, bookId, 1, offerPrice);
 			itemList.add(item);
@@ -188,7 +184,7 @@ public class BookStoreServiceImpl implements BookStoreService {
 		List<Order> myorders = placeOrderProxy.getOrdersByUserId(userId);
 		return myorders;
 	}
-
+	
 	@Override
 	public void addUserRating(UserRating userRating) {
 		logInfo.info("----2. BookStoreServiceImpl --- addUserRating()----");
@@ -203,7 +199,7 @@ public class BookStoreServiceImpl implements BookStoreService {
 	public List<UserRating> getMyRatings(String userId) {
 		logInfo.info("----BookStoreServiceImpl --- getMyRatings()----");
 		List<UserRating> ratingsList = new ArrayList<>();
-		//Invoking UserRatingMS with RestTemplate
+		// Invoke UserRating MS Rest API with RestTemplate
 		/*String ratingEndpoint = "http://localhost:6500/userrating/" + userId;
 		RestTemplate ratingRest = new RestTemplate();
 		List<Map> mymap = ratingRest.getForObject(ratingEndpoint, List.class);
@@ -212,13 +208,12 @@ public class BookStoreServiceImpl implements BookStoreService {
 			ratingsList.add(urtaing);
 			System.out.println(map);
 		}*/
-		
-		//Invoking UserRatingMS with Feign
-		ratingsList = userRatingProxy.getUserRatingByUserId(userId);
+		// Invoke UserRating MS Rest API with Feign
+		ratingsList = userRatingProcxy.getUserRatingByUserId(userId);
+		System.out.println("ratingsList===>"+ratingsList);
 		return ratingsList;
 	}
 
-	//With Feign, this is not in used
 	private UserRating convertMapToUserRating(Map map) {
 		UserRating rating = new UserRating();
 		rating.setRatingId(new Integer(map.get("ratingId").toString()));
@@ -228,8 +223,7 @@ public class BookStoreServiceImpl implements BookStoreService {
 		rating.setReview(map.get("review").toString());
 		return rating;
 	}
-	
-	//With Feign, this is not in used
+
 	private Book convertMapToBook(Map map) {
 		Book mybook = new Book();
 		mybook.setBookId(Integer.parseInt(map.get("bookId").toString()));
@@ -239,7 +233,5 @@ public class BookStoreServiceImpl implements BookStoreService {
 		mybook.setCategory(map.get("category").toString());
 		return mybook;
 	}
-
-	
 
 }

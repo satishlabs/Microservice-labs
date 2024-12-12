@@ -1,0 +1,15 @@
+package com.satishlabs.proxy;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+
+
+public interface BookPriceProxy {
+	
+	@GetMapping("/bookprice/{bookId}")
+	public BookPriceInfo getBookPrice(@PathVariable Integer bookId);
+	
+	@GetMapping("/offerprice/{bookId}")
+	public double getOfferPrice(@PathVariable Integer bookId);
+}
