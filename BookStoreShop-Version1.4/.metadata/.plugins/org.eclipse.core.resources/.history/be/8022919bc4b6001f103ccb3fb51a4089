@@ -1,0 +1,8 @@
+package com.satishlabs.booksearch.feignproxy;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(url = "")
+public interface BookSearchProxy {
+
+}

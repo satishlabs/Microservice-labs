@@ -1,0 +1,8 @@
+package com.satishlabs.booksearch.proxy;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value = "BookSearchMS", url = "http://localhost:8000")
+public interface BookSearchProxy {
+
+}

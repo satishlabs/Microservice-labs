@@ -1,0 +1,18 @@
+
+server.port=9000
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.datasource.url=jdbc:mysql://localhost:3306/jlcbookpricedb
+spring.datasource.username=root
+spring.datasource.password=root
+spring.datasource.hikari.connectionTimeout=20000
+spring.datasource.hikari.maximumPoolSize=5
+logging.level.root=INFO
+logging.pattern.console=%-5level %logger{36} - %msg%n
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+
+#BootAdminClient
+spring.boot.admin.client.url=http://localhost:5555
+spring.boot.admin.client.enabled=true
+spring.application.name=BookPriceMS
+management.endpoints.web.exposure.include=*
