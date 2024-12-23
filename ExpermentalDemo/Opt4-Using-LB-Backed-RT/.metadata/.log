@@ -1,0 +1,396 @@
+!SESSION 2024-12-23 14:58:06.450 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\dev-labs\Spring-Boot-MS\ExpermentalDemo\Opt3-Using-DiscoveryClient
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-23 14:58:19.888
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-23 14:58:24.969
+!MESSAGE Logback config file: D:\dev-labs\Spring-Boot-MS\ExpermentalDemo\Opt3-Using-DiscoveryClient\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-23 14:58:27.774
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-23 14:58:27.775
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-23 14:58:29.004
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-23 14:58:29.004
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-12-23 14:58:36.740
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\satis'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:51.477
+!MESSAGE Classpath changed for project: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:54.308
+!MESSAGE Classpath changed for project: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:54.317
+!MESSAGE Boot project ADDED: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:54.318
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:54.359
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-23 14:58:54.421
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\satis\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1734946134421
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\Users\satis\eclipse\jee-2024-09\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.57.0.202409101848\servers\spring-boot-language-server\spring-boot-language-server-1.57.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:54.422
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-23 14:58:54.433
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17640
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:54.535
+!MESSAGE Classpath changed for project: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:58:57.294
+!MESSAGE Classpath changed for project: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:59:04.757
+!MESSAGE Classpath changed for project: BookSearchMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:59:05.585
+!MESSAGE Classpath changed for project: BookSearchMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:59:05.599
+!MESSAGE Boot project ADDED: BookSearchMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:59:06.329
+!MESSAGE Classpath changed for project: BookSearchMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:59:58.750
+!MESSAGE Classpath changed for project: EurekaServer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:59:59.783
+!MESSAGE Classpath changed for project: EurekaServer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 14:59:59.802
+!MESSAGE Boot project ADDED: EurekaServer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:00:00.431
+!MESSAGE Classpath changed for project: EurekaServer
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 15:01:06.706
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 15:01:06.708
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 15:01:06.709
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 15:01:06.710
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 15:01:06.720
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 15:01:06.725
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:01:41.460
+!MESSAGE Classpath changed for project: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:01:41.556
+!MESSAGE Classpath changed for project: BookPriceMS
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-12-23 15:02:54.596
+!MESSAGE Could not detect hyperlinks due to timeout after 800 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+	at org.eclipse.lsp4e.operations.declaration.OpenDeclarationHyperlinkDetector.detectHyperlinks(OpenDeclarationHyperlinkDetector.java:72)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:229)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:03:51.445
+!MESSAGE Classpath changed for project: BookSearchMS
+
+!ENTRY Activator 4 0 2024-12-23 15:12:15.122
+!MESSAGE DebugException: Launch configuration BookPriceMS - 9000 at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%209000.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration BookPriceMS - 9000 at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%209000.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:754)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1203)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.springframework.ide.eclipse.boot.dash.model.LaunchConfDashElementFactory.createOrGet(LaunchConfDashElementFactory.java:81)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$5.apply(BootProjectDashElement.java:228)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$5.apply(BootProjectDashElement.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.MapSet.compute(MapSet.java:44)
+	at org.springsource.ide.eclipse.commons.livexp.core.MapSet.compute(MapSet.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.refresh(LiveExpression.java:74)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.syncRefresh(AsyncLiveExpression.java:134)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.refresh(AsyncLiveExpression.java:129)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression$1.gotValue(LiveExpression.java:116)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.changed(LiveExpression.java:137)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.syncChanged(AsyncLiveExpression.java:152)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.changed(AsyncLiveExpression.java:147)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.syncRefresh(LiveSetVariable.java:88)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.refresh(AsyncLiveExpression.java:129)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.replaceAll(LiveSetVariable.java:168)
+	at org.springframework.ide.eclipse.boot.dash.util.LaunchConfigurationTracker$2.run(LaunchConfigurationTracker.java:128)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-12-23 15:12:15.122
+!MESSAGE Launch configuration BookPriceMS - 9000 at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%209000.launch does not exist.
+
+!ENTRY Activator 4 0 2024-12-23 15:12:30.117
+!MESSAGE DebugException: Launch configuration BookPriceMS - BookPriceMsApplication at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration BookPriceMS - BookPriceMsApplication at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:754)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1203)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:413)
+	at org.springframework.ide.eclipse.boot.launch.BootLaunchConfigurationDelegate.getEnableJmx(BootLaunchConfigurationDelegate.java:427)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:195)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:1)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.updateOwnerStatesAndFireEvents(RunStateTracker.java:216)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.processCreated(RunStateTracker.java:273)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processCreated(ProcessTracker.java:105)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:71)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1287)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1321)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-12-23 15:12:30.117
+!MESSAGE Launch configuration BookPriceMS - BookPriceMsApplication at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2024-12-23 15:12:30.118
+!MESSAGE DebugException: Launch configuration BookPriceMS - BookPriceMsApplication at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication.launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration BookPriceMS - BookPriceMsApplication at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:754)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1203)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getAttribute(LaunchConfiguration.java:438)
+	at org.springframework.ide.eclipse.boot.launch.AbstractBootLaunchConfigurationDelegate.getProjectName(AbstractBootLaunchConfigurationDelegate.java:316)
+	at org.springframework.ide.eclipse.boot.launch.AbstractBootLaunchConfigurationDelegate.getProject(AbstractBootLaunchConfigurationDelegate.java:301)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:196)
+	at org.springframework.ide.eclipse.boot.dash.BootDashActivator$1.stateChanged(BootDashActivator.java:1)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.updateOwnerStatesAndFireEvents(RunStateTracker.java:216)
+	at org.springframework.ide.eclipse.boot.dash.util.RunStateTracker.processCreated(RunStateTracker.java:273)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.processCreated(ProcessTracker.java:105)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker.handleDebugEvent(ProcessTracker.java:71)
+	at org.springframework.ide.eclipse.boot.util.ProcessTracker$1.handleDebugEvents(ProcessTracker.java:48)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1287)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1321)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-12-23 15:12:30.118
+!MESSAGE Launch configuration BookPriceMS - BookPriceMsApplication at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication.launch does not exist.
+
+!ENTRY Activator 4 0 2024-12-23 15:12:51.783
+!MESSAGE DebugException: Launch configuration BookPriceMS - BookPriceMsApplication (1) at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication%20(1).launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration BookPriceMS - BookPriceMsApplication (1) at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication%20(1).launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:754)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1203)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.springframework.ide.eclipse.boot.dash.model.LaunchConfDashElementFactory.createOrGet(LaunchConfDashElementFactory.java:81)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$5.apply(BootProjectDashElement.java:228)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$5.apply(BootProjectDashElement.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.MapSet.compute(MapSet.java:44)
+	at org.springsource.ide.eclipse.commons.livexp.core.MapSet.compute(MapSet.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.refresh(LiveExpression.java:74)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.syncRefresh(AsyncLiveExpression.java:134)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.refresh(AsyncLiveExpression.java:129)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression$1.gotValue(LiveExpression.java:116)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.changed(LiveExpression.java:137)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.syncChanged(AsyncLiveExpression.java:152)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.changed(AsyncLiveExpression.java:147)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.syncRefresh(LiveSetVariable.java:88)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.refresh(AsyncLiveExpression.java:129)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.replaceAll(LiveSetVariable.java:168)
+	at org.springframework.ide.eclipse.boot.dash.util.LaunchConfigurationTracker$2.run(LaunchConfigurationTracker.java:128)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-12-23 15:12:51.783
+!MESSAGE Launch configuration BookPriceMS - BookPriceMsApplication (1) at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication%20(1).launch does not exist.
+
+!ENTRY Activator 4 0 2024-12-23 15:13:07.878
+!MESSAGE DebugException: Launch configuration BookPriceMS - BookPriceMsApplication (2) at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication%20(2).launch does not exist.
+!STACK 1
+org.eclipse.debug.core.DebugException: Launch configuration BookPriceMS - BookPriceMsApplication (2) at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication%20(2).launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:754)
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1203)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:487)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:643)
+	at org.springframework.ide.eclipse.boot.dash.model.LaunchConfDashElementFactory.createOrGet(LaunchConfDashElementFactory.java:81)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$5.apply(BootProjectDashElement.java:228)
+	at org.springframework.ide.eclipse.boot.dash.model.BootProjectDashElement$5.apply(BootProjectDashElement.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.MapSet.compute(MapSet.java:44)
+	at org.springsource.ide.eclipse.commons.livexp.core.MapSet.compute(MapSet.java:1)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.refresh(LiveExpression.java:74)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.syncRefresh(AsyncLiveExpression.java:134)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.refresh(AsyncLiveExpression.java:129)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression$1.gotValue(LiveExpression.java:116)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveExpression.changed(LiveExpression.java:137)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.syncChanged(AsyncLiveExpression.java:152)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.changed(AsyncLiveExpression.java:147)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.syncRefresh(LiveSetVariable.java:88)
+	at org.springsource.ide.eclipse.commons.livexp.core.AsyncLiveExpression.refresh(AsyncLiveExpression.java:129)
+	at org.springsource.ide.eclipse.commons.livexp.core.LiveSetVariable.replaceAll(LiveSetVariable.java:168)
+	at org.springframework.ide.eclipse.boot.dash.util.LaunchConfigurationTracker$2.run(LaunchConfigurationTracker.java:128)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.debug.core 4 5012 2024-12-23 15:13:07.878
+!MESSAGE Launch configuration BookPriceMS - BookPriceMsApplication (2) at file:/D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt3-Using-DiscoveryClient/.metadata/.plugins/org.eclipse.debug.core/.launches/BookPriceMS%20-%20BookPriceMsApplication%20(2).launch does not exist.
+!SESSION 2024-12-23 15:27:29.945 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data D:\dev-labs\Spring-Boot-MS\ExpermentalDemo\Opt4-Using-LB-Backed-RT
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-23 15:27:34.126
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-12-23 15:27:35.173
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-12-23 15:27:35.915
+!MESSAGE Logback config file: D:\dev-labs\Spring-Boot-MS\ExpermentalDemo\Opt4-Using-LB-Backed-RT\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-12-23 15:27:36.636
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-23 15:27:36.636
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-12-23 15:27:37.090
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-12-23 15:27:37.090
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-23 15:27:43.306
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\satis\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.0.v20240919-1706\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/dev-labs/Spring-Boot-MS/ExpermentalDemo/Opt4-Using-LB-Backed-RT/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1734947863305
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\Users\satis\eclipse\jee-2024-09\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.57.0.202409101848\servers\spring-boot-language-server\spring-boot-language-server-1.57.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:43.307
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-12-23 15:27:43.325
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17108
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:48.194
+!MESSAGE Boot project ADDED: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:48.195
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:48.197
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:48.198
+!MESSAGE Boot project ADDED: BookSearchMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:48.199
+!MESSAGE Boot project ADDED: EurekaServer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:48.893
+!MESSAGE Classpath changed for project: BookPriceMS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-12-23 15:27:48.894
+!MESSAGE Classpath changed for project: EurekaServer
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-12-23 15:27:49.314
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\satis'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 16:18:00.239
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 16:18:00.240
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 16:18:00.241
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 16:18:00.242
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 16:18:00.251
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-12-23 16:18:00.257
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-12-23 16:28:45.232
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:430)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2140)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
