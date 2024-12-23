@@ -1,0 +1,5 @@
+package com.satishlabs.bookprice.info;
+
+public class BookPriceInfo {
+
+}
