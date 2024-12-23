@@ -1,0 +1,10 @@
+Callling One MS from Other MS:
+------------------------------------
+Goa: I want to call BookPriceMS from BookSearchMS
+Opt1 - Using RestTemplate
+Opt2 - Using Feign
+Opt3 - Using DiscoveryClient with Eureka
+
+Opt4 - Using Load Balanacer backed Rest Template with Eureka
+Opt5 - Using Load Balanacer Client with Eureka
+Opt6 - Using Feign and Eureka

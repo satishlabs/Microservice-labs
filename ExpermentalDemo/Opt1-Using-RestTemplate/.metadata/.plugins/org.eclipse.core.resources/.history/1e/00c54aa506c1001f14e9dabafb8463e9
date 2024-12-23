@@ -1,0 +1,12 @@
+package com.satishlabs.booksearch.dto;
+
+public class BookInfo {
+	private Integer bookId;
+	private String bookName;
+	private String author;
+	private String publications;
+	private String category;
+	private double price;
+	private double offer;
+	private String serverPort;
+}
